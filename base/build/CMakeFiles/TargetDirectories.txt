@@ -1,0 +1,14 @@
+/home/cjy/cuda_learning/reduce/base/build/CMakeFiles/1_hello_cuda.dir
+/home/cjy/cuda_learning/reduce/base/build/CMakeFiles/2_vectorAdd.dir
+/home/cjy/cuda_learning/reduce/base/build/CMakeFiles/2.1_vectorAdd.dir
+/home/cjy/cuda_learning/reduce/base/build/CMakeFiles/5_reduce.dir
+/home/cjy/cuda_learning/reduce/base/build/CMakeFiles/5_reduce_v0.dir
+/home/cjy/cuda_learning/reduce/base/build/CMakeFiles/5_reduce_v1.dir
+/home/cjy/cuda_learning/reduce/base/build/CMakeFiles/5_reduce_v2.dir
+/home/cjy/cuda_learning/reduce/base/build/CMakeFiles/5_reduce_v3.dir
+/home/cjy/cuda_learning/reduce/base/build/CMakeFiles/5_reduce_v4.dir
+/home/cjy/cuda_learning/reduce/base/build/CMakeFiles/5_reduce_v5.dir
+/home/cjy/cuda_learning/reduce/base/build/CMakeFiles/5_reduce_v6.dir
+/home/cjy/cuda_learning/reduce/base/build/CMakeFiles/6_warp_level_reduce.dir
+/home/cjy/cuda_learning/reduce/base/build/CMakeFiles/edit_cache.dir
+/home/cjy/cuda_learning/reduce/base/build/CMakeFiles/rebuild_cache.dir

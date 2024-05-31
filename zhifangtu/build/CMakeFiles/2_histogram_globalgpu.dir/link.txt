@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/2_histogram_globalgpu.dir/src/2_histogram_globalgpu_generated_2_histogram_globalgpu.cu.o CMakeFiles/2_histogram_globalgpu.dir/src/2_histogram_globalgpu_generated_cuda_error_check.cu.o -o 2_histogram_globalgpu  /usr/local/cuda-12.1/lib64/libcudart_static.a -ldl /usr/lib/x86_64-linux-gnu/librt.a 

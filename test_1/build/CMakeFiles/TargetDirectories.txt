@@ -1,0 +1,4 @@
+/home/cjy/cuda_learning/reduce/test_1/build/CMakeFiles/reduce.dir
+/home/cjy/cuda_learning/reduce/test_1/build/CMakeFiles/histogram.dir
+/home/cjy/cuda_learning/reduce/test_1/build/CMakeFiles/edit_cache.dir
+/home/cjy/cuda_learning/reduce/test_1/build/CMakeFiles/rebuild_cache.dir

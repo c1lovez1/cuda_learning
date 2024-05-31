@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/histogram.dir/src/histogram_generated_histogram.cu.o CMakeFiles/histogram.dir/src/histogram_generated_cuda_error_check.cu.o -o histogram  /usr/local/cuda-12.1/lib64/libcudart_static.a -ldl /usr/lib/x86_64-linux-gnu/librt.a 

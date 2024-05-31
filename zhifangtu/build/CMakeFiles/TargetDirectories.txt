@@ -1,0 +1,9 @@
+/home/cjy/cuda_learning/reduce/zhifangtu/build/CMakeFiles/1_histogram_cpu.dir
+/home/cjy/cuda_learning/reduce/zhifangtu/build/CMakeFiles/1_histogram_cpu_cpp.dir
+/home/cjy/cuda_learning/reduce/zhifangtu/build/CMakeFiles/1_histogram_cpu_c.dir
+/home/cjy/cuda_learning/reduce/zhifangtu/build/CMakeFiles/2_histogram_globalgpu.dir
+/home/cjy/cuda_learning/reduce/zhifangtu/build/CMakeFiles/2_histogram_sharedgpu.dir
+/home/cjy/cuda_learning/reduce/zhifangtu/build/CMakeFiles/2_histogram_gpuThrust.dir
+/home/cjy/cuda_learning/reduce/zhifangtu/build/CMakeFiles/2_histogram_gpuParallelism.dir
+/home/cjy/cuda_learning/reduce/zhifangtu/build/CMakeFiles/edit_cache.dir
+/home/cjy/cuda_learning/reduce/zhifangtu/build/CMakeFiles/rebuild_cache.dir

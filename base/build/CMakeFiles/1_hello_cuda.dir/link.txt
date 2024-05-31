@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/1_hello_cuda.dir/src/1_hello_cuda_generated_1_helloworld.cu.o CMakeFiles/1_hello_cuda.dir/src/1_hello_cuda_generated_cuda_error_check.cu.o -o 1_hello_cuda  /usr/local/cuda-12.1/lib64/libcudart_static.a -ldl /usr/lib/x86_64-linux-gnu/librt.a 

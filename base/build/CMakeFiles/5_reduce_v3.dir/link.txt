@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/5_reduce_v3.dir/src/5_reduce_v3_generated_5_reduce_v3.cu.o CMakeFiles/5_reduce_v3.dir/src/5_reduce_v3_generated_cuda_error_check.cu.o -o 5_reduce_v3  /usr/local/cuda-12.1/lib64/libcudart_static.a -ldl /usr/lib/x86_64-linux-gnu/librt.a 
